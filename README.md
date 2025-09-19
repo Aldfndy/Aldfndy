@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aldi Fandiya Akbar</h1>
-<h3 align="center">Undergraduate Informatics Engineering Student at Brawijaya University</h3>
+<h3 align="center">Technology Security & GRC Enthusiast | IT Risk & Compliance Learner</h3>
 
 - 📫 Reach me at **aldiakbar769@gmail.com**
 
